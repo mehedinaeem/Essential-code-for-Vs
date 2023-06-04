@@ -67,11 +67,21 @@
     "git.confirmSync": false,
     "editor.codeActionsOnSave": {
     
+    
+
+    
 
     
     },
     "git.enableSmartCommit": true,
     "window.zoomLevel": 1,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "explorer.confirmDragAndDrop": false,
+
+    "files.exclude": {
+        "**/*.exe": true
+    },
+    "explorer.excludeGitIgnore": true
+    
     
 }
-
